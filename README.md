@@ -15,6 +15,8 @@ Bugs
 -Cannot auto connect internet at first boot apply APN manually
 
 Notes:
-HYPER OS 3 BASED WITH VULKAN FIX
+
 ~~DO NOT INSTALL IF YOU ARE ON HYPER OS 3, DOWNGRADE IT FIRST TO HYPER OS 2 !!!~~
 ~~No Vulkan fixes until Hyper OS 3 tree relesed by Naoko Shoto~~
+
+HYPER OS 3 BASED WITH VULKAN FIX
